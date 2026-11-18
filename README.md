@@ -1,12 +1,9 @@
 # 👋 Hey, I'm Prashant Ashok Ghuge!
 
-\<h3 align="center">💻 Full-Stack Developer | Backend Development Enthusiast | B.E. IT Student\</h3>
+<h3 align="center">💻 Full-Stack Developer | Backend Development Enthusiast | B.E. IT Student\</h3>
 
-\<p align="center">   \<a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)">     \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Applications;Exploring+Backend+Development;Learning+Java+%26+Spring+Boot;Turning+Ideas+Into+Real+Projects](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=650\&lines=Building+Full-Stack+Web+Applications;Exploring+Backend+Development;Learning+Java+%26+Spring+Boot;Turning+Ideas+Into+Real+Projects)" alt="Typing SVG" />   \</a> \</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=Prashant124715&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Prashant124715\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile views"/> \</p>
 
----
 
 ## 🚀 About Me
 
@@ -111,17 +108,6 @@ An infrastructure risk assessment system featuring geospatial visualization, rea
 ---
 
 ## 🏆 Achievements & Certifications
-
-
-<h2 align="center">🏆 GitHub Profile Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Prashant124715&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"
-    alt="GitHub Profile Trophies"
-  />
-</p>
-
 
 - 🥈 2nd Rank – InnoSpark Workshop (Biodiversity Theme).
 - ☁️ Oracle Cloud Infrastructure 2025 – Generative AI.
