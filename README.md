@@ -91,24 +91,24 @@ An infrastructure risk assessment system featuring geospatial visualization, rea
 
 ---
 
-## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Prashant124715&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Prashant124715\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Stats"/>
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant124715&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant124715\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/>
-\</p>
+## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=Prashant124715&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Prashant124715\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
-\</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prashant124715&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant124715&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
+</p>
 
-### 📈 Contribution Activity
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Prashant124715&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Prashant124715&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Prashant124715\&theme=tokyo-night\&hide_border=true)" alt="Contribution Graph"/>
-\</p>
+### 📈 Contribution Overview
 
----
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant124715&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
 
 ## 🏆 Achievements & Certifications
 
@@ -149,28 +149,44 @@ Bhal Gurukul School, Kalyan | 2023
 
 ---
 
-## 🤝 Let's Connect!
-
-\<p align="center">
-&#x20; \<a href="mailto\:ghugeprashant44\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://linkedin.com/in/prashantghuge1247](https://linkedin.com/in/prashantghuge1247)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Prashant124715](https://github.com/Prashant124715)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
-
-\<p align="center">
-&#x20; 📍 Mumbai, India | 📧 ghugeprashant44\@gmail.com
-\</p>
 
 ---
 
-\<h3 align="center">💻 Code. Learn. Build. Repeat. 🚀\</h3>
+## 🤝 Let's Connect & Collaborate
 
-\<p align="center">
-&#x20; Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-\</p>
+<p align="center">
+  <i>I'm always open to discussing new projects, creative ideas, and opportunities to learn and grow together.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:ghugeprashant44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/prashantghuge1247">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Prashant124715">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Mumbai, Maharashtra, India
+  <br/>
+  💼 Open to Software Developer & Backend Developer Internship Opportunities
+</p>
+
+<p align="center">
+  <b>Let's build something meaningful together! 🚀</b>
+</p>
+
+---
+<h3 align="center">💻 Code. Learn. Build. Repeat. 🚀</h3>
+
+<p align="center">
+  Thanks for visiting my profile!
+  <br/>
+  If you like my work, consider giving my repositories a ⭐
+</p>
