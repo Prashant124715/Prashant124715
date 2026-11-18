@@ -112,6 +112,17 @@ An infrastructure risk assessment system featuring geospatial visualization, rea
 
 ## 🏆 Achievements & Certifications
 
+
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Prashant124715&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"
+    alt="GitHub Profile Trophies"
+  />
+</p>
+
+
 - 🥈 2nd Rank – InnoSpark Workshop (Biodiversity Theme).
 - ☁️ Oracle Cloud Infrastructure 2025 – Generative AI.
 - 🤖 Prompt Engineering with GitHub Copilot – Microsoft x Simplilearn.
